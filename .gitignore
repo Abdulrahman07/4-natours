@@ -1,0 +1,8 @@
+node_modules/
+public/img/
+dev-data
+*.env
+*.css
+package-lock.json
+*.html
+test.js
